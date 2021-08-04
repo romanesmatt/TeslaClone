@@ -14,10 +14,10 @@ const styles = StyleSheet.create({
     },
     title: {
         fontSize: 40,
-        fontWeight: 'bold',
+        fontWeight: '500',
     },
     subtitle: {
-        fontSize: 16,
+        fontSize: 14,
         color: '#5c5e62',
 
     },
