@@ -1,5 +1,5 @@
 # TeslaClone
-This is a hybrid mobile application built using React Native and Expo. React Native and Expo are used for building the front end, and that is about it. This project was built to learn and understand developing in a React Native and Expo environment. The application is a clone of the official Tesla website, using many of the same UI components as said website, but rendered using React Native components.
+This is a hybrid mobile application built using React Native and Expo. React Native and Expo are used for building the front end, with UIKitten making up many of the UI components in each screen. This project was built to learn and understand developing in a React Native and Expo environment. The application is a clone of the official Tesla website, using many of the same UI components as said website, but rendered using React Native components.
 
 
 ## YouTube Tutorial
